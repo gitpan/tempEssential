@@ -1,0 +1,8 @@
+Revision history for Perl extension Class::DBI::TempEssential.
+
+0.02  Thu Apr 29 10:44:20 CEST 2004
+        - better tests, bug-fix on reverting essential columns
+
+0.01  Mon Oct 20 09:34:18 CEST 2003
+	- original version
+
